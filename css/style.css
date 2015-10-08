@@ -16,6 +16,10 @@ nav .brand-logo {
   padding: 0 50px;
 }
 
+nav .nav-right {
+  padding: 0 20px;
+}
+
 media="screen, projection"
 nav .nav-wrapper {
     position: relative;
