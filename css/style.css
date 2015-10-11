@@ -13,7 +13,7 @@ nav .brand-logo {font-family: 'Permanent Marker', cursive;}
 nav ul a,
 nav .brand-logo {
   color: #8FD694;
-  padding: 0 50px;
+  padding: 10px 50px;
 }
 
 nav .nav-right {
@@ -25,6 +25,7 @@ nav .nav-wrapper {
     position: relative;
     height: 100%;
 }
+
 
 p {
   line-height: 2rem;
