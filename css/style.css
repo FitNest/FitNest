@@ -6,7 +6,10 @@
  * Made By MaterializeCSS.com
  */
 
-body{font-family: 'Poiret One', cursive;}
+/* FONT Poiret One: font-family: 'Poiret One', cursive;*/
+body{font-family: 'Raleway', sans-serif;}
+
+
 
 nav .brand-logo {font-family: 'Permanent Marker', cursive;}
 
@@ -20,11 +23,23 @@ nav .nav-right {
   padding: 0 20px;
 }
 
+
 media="screen, projection"
 nav .nav-wrapper {
     position: relative;
     height: 100%;
 }
+
+
+nav .top-cta {
+    margin-top: -80px;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    background-color: #8FD694;
+  }
 
 
 p {
@@ -44,8 +59,13 @@ p {
 
 .section-intro {
   height: 100%;
-  width: 100%;
+  min-height: 480px;
+  width: 50%;
+  text-align: left;
+  padding-top: 9em;
+  font-weight: 
 }
+
 
 .section-registrazione {
   height: 100%;
@@ -59,13 +79,38 @@ p {
   background-color: #FFFFFF;
 }
 
+.section-chi {
+
+  height: 100%;
+  width: 100%;
+
+}
+
 .header {
+    font-family: 'Montserrat Alternates', sans-serif;
     margin-top: 5%;
     font-size: 4em;
 
 }
 
-.header-sub {margin-top: 2%;}
+.paragrafo {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.ctitle {
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin-top: 5em;
+}
+
+.ctit {
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin-top: 2%;
+}
+
+.header-sub {margin-top: 2%;
+
+    }
+
 
 
 @media only screen and (max-width : 992px) {
@@ -172,6 +217,14 @@ margin-top: 5%;
 footer.page-footer {
   margin: 0;
   background-color: #FFFFFF;
+}
+
+.chi {
+  text-align: left;
+}
+
+p.chi{
+  color: #66bb6a;
 }
 
 .social-icon {
