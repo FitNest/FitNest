@@ -16,11 +16,13 @@ nav .brand-logo {font-family: 'Permanent Marker', cursive;}
 nav ul a,
 nav .brand-logo {
   color: #8FD694;
-  padding: 10px 50px;
+  padding: 0px 50px;
 }
 
 nav .nav-right {
   padding: 0 20px;
+  font-weight: bolder;
+  color: #43a047;
 }
 
 
@@ -44,7 +46,10 @@ nav .top-cta {
 
 p {
   line-height: 2rem;
+  text-align: justify;
+  font-weight: bold;
 }
+
 
 .button-collapse {
   color: #8FD694;
@@ -55,6 +60,19 @@ p {
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
+}
+
+.center {
+  font-family: 'Raleway', sans-serif; 
+}
+
+.btn-large {
+  width: 50em;
+}
+
+.email {
+  width: 50em;
+  padding-bottom: 20px;
 }
 
 .section-intro {
@@ -89,12 +107,15 @@ p {
 .header {
     font-family: 'Montserrat Alternates', sans-serif;
     margin-top: 5%;
-    font-size: 4em;
+    font-size: 4.3em;
+    width: 7em;
 
 }
 
 .paragrafo {
   font-family: 'Montserrat Alternates', sans-serif;
+  color: black;
+
 }
 
 .ctitle {
@@ -108,8 +129,9 @@ p {
 }
 
 .header-sub {margin-top: 2%;
-
-    }
+      width: 50em;
+      padding-left: 20px;
+}
 
 
 
