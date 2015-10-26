@@ -21,8 +21,6 @@ nav .brand-logo {
 
 nav .nav-right {
   padding: 0 20px;
-  font-weight: bolder;
-  color: #43a047;
 }
 
 
@@ -47,7 +45,7 @@ nav .top-cta {
 p {
   line-height: 2rem;
   text-align: justify;
-
+  font-weight: bold;
 }
 
 
@@ -67,9 +65,7 @@ p {
 }
 
 .btn-large {
-  width: 40em;
-  height: 3em;
-  font-weight: bold;
+  width: 50em;
 }
 
 .email {
@@ -83,6 +79,7 @@ p {
   width: 50%;
   text-align: left;
   padding-top: 9em;
+  font-weight: 
 }
 
 
@@ -130,9 +127,8 @@ p {
 }
 
 .header-sub {margin-top: 2%;
-      width: 50em;
-      padding-left: 20px;
-}
+
+    }
 
 
 
@@ -248,7 +244,6 @@ footer.page-footer {
 
 p.chi{
   color: #66bb6a;
-  text-align: justify;
 }
 
 .social-icon {
