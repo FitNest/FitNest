@@ -15,7 +15,7 @@ nav .brand-logo {font-family: 'Permanent Marker', cursive;}
 
 nav ul a,
 nav .brand-logo {
-  color: #8FD694;
+  color: #006600;
   padding: 0px 50px;
 }
 
@@ -47,8 +47,10 @@ nav .top-cta {
 p {
   line-height: 2rem;
   text-align: justify;
+  color: #444444;
 
 }
+
 
 
 .button-collapse {
@@ -116,7 +118,7 @@ p {
 
 .paragrafo {
   font-family: 'Montserrat Alternates', sans-serif;
-  color: black;
+  color: #43a047;
 
 }
 
