@@ -163,6 +163,9 @@ p {
           width: 100%;
 
 }
+.header-sub {margin-top: 2%;
+      width: 900px;
+      padding-left: 20px;
 }
 @media only screen and (max-width : 600px) {
   #index-banner .section {
@@ -175,10 +178,10 @@ p {
       .nav-wrapper {
         position: relative;
         padding: 0 10px;
-
-
-}
-
+        }
+      .header-sub {margin-top: 2%;
+      width: 600px;
+      padding-left: 20px;
 }
 
 /* MARGINE della SEZIONE di SERVIZIO */
