@@ -149,6 +149,9 @@ p {
   #index-banner .section {
     top: 10%;
   }
+      .container{
+        width: 100%;
+      }
 
         .section{
         background-color: #FFFFFF;
@@ -161,11 +164,22 @@ p {
 }
         .container {
           width: 100%;
-
 }
-.header-sub {margin-top: 2%;
-      width: 900px;
-      padding-left: 20px;
+      .container{
+        width: 100%;
+      }
+      .header{
+        font-size: 2.5em;
+        width: 150%;
+      }
+
+      .btn-large{
+      text-align: left;
+      }
+      .header-sub{
+        width: 100%;
+      }
+
 }
 @media only screen and (max-width : 600px) {
   #index-banner .section {
@@ -178,10 +192,23 @@ p {
       .nav-wrapper {
         position: relative;
         padding: 0 10px;
-        }
-      .header-sub {margin-top: 2%;
-      width: 600px;
-      padding-left: 20px;
+}
+
+      .container{
+        width: 100%;
+      }
+      .header{
+        font-size: 2.5em;
+        width: 150%;
+      }
+
+      .btn-large{
+      text-align: left;
+      }
+      .header-sub{
+        width: 100%;
+      }
+
 }
 
 /* MARGINE della SEZIONE di SERVIZIO */
